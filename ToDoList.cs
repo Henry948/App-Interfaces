@@ -2,7 +2,7 @@ using System;
 
 namespace SavingInterface
 {
-  class TodoList
+  class TodoList : IDisplayable
   {
     public string[] Todos
     { get; private set; }
