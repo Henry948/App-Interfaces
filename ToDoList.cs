@@ -20,5 +20,19 @@ namespace SavingInterface
       Todos[nextOpenIndex] = todo;
       nextOpenIndex++;
     }
+
+     public void Display(){
+      int count = 1;
+      Console.WriteLine("\nTodos");
+      Console.WriteLine(HeaderSymbol);
+      
+        foreach(string Todo in Todos){
+          if(String.IsNullOrEmpty(Todo)){
+             Console.WriteLine($"{count}: []");
+          } else{
+            Console.WriteLine($"{count}: {Todo}");
+          }        
+        count++;
+      }
   }
 }
