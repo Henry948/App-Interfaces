@@ -22,7 +22,8 @@ namespace SavingInterface
       nextOpenIndex++;
     }
 
-     public void Display(){
+     public void Display()
+     {
       int count = 1;
       Console.WriteLine("\nTodos");
       Console.WriteLine(HeaderSymbol);
@@ -35,6 +36,12 @@ namespace SavingInterface
           }        
         count++;
       }
+    }
+
+    public void Reset()
+    {
+      Todos = new string [5];
+      nextOpenIndex = 0;
     }
   }
 }

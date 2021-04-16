@@ -15,6 +15,12 @@ namespace SavingInterface
 
       td.Display();
       pm.Display();
+
+      td.Reset();
+      pm.Reset();
+
+      td.Display();
+      pm.Display();
     }
   }
 }

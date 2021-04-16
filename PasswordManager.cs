@@ -31,5 +31,11 @@ namespace SavingInterface
         Console.WriteLine("******");
       }
     }
+
+    public void Reset()
+    {
+      Password = "";
+      Hidden = false;
+    }
   }
 }
