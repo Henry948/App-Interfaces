@@ -1,0 +1,5 @@
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.csprojAssemblyReference.cache
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.AssemblyInfoInputs.cache
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.AssemblyInfo.cs
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.csproj.CoreCompileInputs.cache
