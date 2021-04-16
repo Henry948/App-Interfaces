@@ -2,7 +2,7 @@ using System;
 
 namespace SavingInterface
 {
-  class TodoList : IDisplayable
+  class TodoList : IDisplayable, IResetable
   {
     string HeaderSymbol = "----------";
     public string[] Todos
