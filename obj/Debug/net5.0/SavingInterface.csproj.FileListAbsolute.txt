@@ -3,3 +3,14 @@ C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface
 C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.AssemblyInfoInputs.cache
 C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.AssemblyInfo.cs
 C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.csproj.CoreCompileInputs.cache
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.exe
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.deps.json
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.runtimeconfig.json
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.runtimeconfig.dev.json
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.dll
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\ref\SavingInterface.dll
+C:\Users\User23\Documents\GitHub\App-Interfaces\bin\Debug\net5.0\SavingInterface.pdb
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.dll
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\ref\SavingInterface.dll
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.pdb
+C:\Users\User23\Documents\GitHub\App-Interfaces\obj\Debug\net5.0\SavingInterface.genruntimeconfig.cache

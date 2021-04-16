@@ -4,6 +4,7 @@ namespace SavingInterface
 {
   class TodoList : IDisplayable
   {
+    string HeaderSymbol = "----------";
     public string[] Todos
     { get; private set; }
 
