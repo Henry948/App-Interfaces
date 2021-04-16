@@ -4,6 +4,10 @@ namespace SavingInterface
 {
   class PasswordManager : IDisplayable
   {
+
+    string HeaderSymbol = "----------";
+
+
     private string Password
     { get; set; }
 
@@ -18,7 +22,9 @@ namespace SavingInterface
 
     public void Display()
     {
-      if (Hidden == false)
+      Console.WriteLine("\nPassword");
+      Console.WriteLine(HeaderSymbol);
+      if (!Hidden)
       {
         Console.WriteLine(Password);
       } else {
